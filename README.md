@@ -1,7 +1,7 @@
 ## First week HW
 serializer
 - Ruby: Command Line Arguments with ARGV https://www.codecademy.com/articles/ruby-command-line-argv
-- fuction : .each_line  https://apidock.com/ruby/String/each_line
+- fuction : `.each_line`  https://apidock.com/ruby/String/each_line
 
 Fizzbuxx
 - Ruby的各種標點符號  https://zhidao.baidu.com/question/1496688684997826099.html
